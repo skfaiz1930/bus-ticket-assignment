@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://faiz0929:faiz1930@cluster0.1zoun.mongodb.net/Shruti-Bus-Ticket?retryWrites=true&w=majority",
+  "jwtSecret": "asdfg"
+}
